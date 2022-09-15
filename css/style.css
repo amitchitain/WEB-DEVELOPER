@@ -1,0 +1,22 @@
+
+body{
+    background-image: url('../Space.png');
+    background-repeat: repeat-x;
+    background-color: rgb(77,107,145);
+    background-size: 75%;
+
+}
+
+.rocket-element{
+    height: 100px;
+    position: absolute;
+    top: 110px;
+    left: 150px;
+    transform: rotateZ(45deg);
+}
+.cody{
+    height: 60px;
+    position: absolute;
+    top: 140px;
+    left: 120px;
+}
